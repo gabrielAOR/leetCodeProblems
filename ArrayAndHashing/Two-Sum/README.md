@@ -26,6 +26,6 @@ Example 3:
 - Output: [0,1]
 ## My approach
 
-I used a HashMap approach to solve the problem. By iterating through the array and checking if the target minus the current element was in the HashMap, I returned the current element and its corresponding index if found. If not, I added the element as a key and its index as a value in the HashMap.
+I used a HashMap approach to solve the problem. By iterating through the array and checking if the target minus the current element was in the HashMap, If found i return the current element and complement corresponding indeces. If not, I add the element as a key and its index as a value in the HashMap.
 
 Big O Time Complexity: `O(n)`

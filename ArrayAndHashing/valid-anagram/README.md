@@ -1,5 +1,5 @@
 
-# [🔗](https://leetcode.com/problems/valid-anagram/description/){:target="_blank"}Valid Anagram Problem
+# [🔗](https://leetcode.com/problems/valid-anagram/description/)Valid Anagram Problem
 
 
 Given two strings s and t, return true if t is an anagram of s, and false otherwise.
